@@ -1,4 +1,5 @@
 ---
 title: "Welcome to my blog"
-date: 2019-01-20
+date: 2025-04-02
 ---
+..yesterday was april fools and i fell for every prank.
