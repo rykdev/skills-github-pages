@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+title: oh hi 🌊
 ---
 
-Hi, I'm Raphael!
+welcome! 
 
-..right now I'm setting up my homepage.
+some apps will be added soon!
